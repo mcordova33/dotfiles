@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = m.cordova.33@gmail.com
+	name = Milagros Cordova
